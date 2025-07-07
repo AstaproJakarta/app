@@ -1,0 +1,13 @@
+/// request :  get ---> https://astapro.co.id/app/detailbanner?id=1
+
+/// result
+
+{
+    "statusCode" : 1,
+    "message" : "",
+    "result" : {
+        "id" : 1,
+        "img" : "https://imagekit.....",
+        "desk" : "djwefchwoneirghxn asicfjnopaxij<br>ajsnoajs"              /// isi deskripsi dalam bentuk html format
+    }
+}

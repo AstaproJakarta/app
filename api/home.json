@@ -1,0 +1,158 @@
+///request : get ---> https://astapro.co.id/app/home
+
+
+///result
+{
+    "statusCode": 1,
+    "message": "",
+    "banner" : [
+        {
+            "id" : 1,
+            "img" : "https://....", 
+        },
+        {
+            "id" : 2,
+            "img" : "https://...."
+        },
+        {
+            "id" : 3,
+            "img" : "https://...."
+        },        
+        {
+            "id" : 4,
+            "img" : "https://...."
+        }
+    ],
+    "elektronik" : [
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },        
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        }    
+    ],
+    "Rumah" : [
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },        
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        }    
+    ],
+    "apartement" : [
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },        
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        }    
+    ],
+    "mobil" : [
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },        
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        }    
+    ],
+    "motor" : [
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },        
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        }    
+    ],
+    "lelang" : [
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        },        
+        {
+            "nama" : "asdasfasdg",
+            "img" : "https://....",
+            "harga" : "Rp 2.770.000"
+        }    
+    ],
+}

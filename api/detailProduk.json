@@ -1,0 +1,40 @@
+{
+    "statusCode" : 1,
+    "message" : "",
+    "result" : {
+        "id" : 1,
+        "kategori" : "elektronik",
+        "harga" : "Rp 2.770.000",
+        "speck" : [                                                                        /// speck dibuat variable pake kurun siku []
+            "Daya 2200 watt",
+            "Berat 65 kg",
+            "Jenis kursi pijat"
+        ],
+        "img" : [                                                                           /// pake  kurung siku [] , bukan kurung kurawal {}
+            "https://imagekit.io/....",
+            "https://imagekit.io/....",
+            "https://imagekit.io/...."
+        ],
+        "desk" : "iasnecoijarnopijg<br>kuahsifuhxa<br>asliefjcnowije",                      /// deskripsi dalam format html 
+        "lokasi" : [
+            {
+                "cabang" : "petojo",
+                "alamat" :"oacijefoiawjef",
+                "pic" : "jascfjwoaief",
+                "whatsapp" : "6283894553550"
+            },
+            {
+                "cabang" : "petojo",
+                "alamat" :"oacijefoiawjef",
+                "pic" : "jascfjwoaief",
+                "whatsapp" : "6283894553550"
+            },
+            {
+                "cabang" : "petojo",
+                "alamat" :"oacijefoiawjef",
+                "pic" : "jascfjwoaief",
+                "whatsapp" : "6283894553550"
+            }
+        ]         
+    }
+}

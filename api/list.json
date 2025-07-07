@@ -1,0 +1,74 @@
+///request : get --> http://astapro.id/app/list?kategori=elektronik&pagination=1&search=
+///kategori : "elektronik", "rumah", "apartemen", "lelang", "mobil", "motor"
+
+
+///result :
+{
+    "statusCode" : 1,                               /// 1 = berhasil, 2 = gagal
+    "message" : "",                                 /// kalo gagal=2 aplikasi menapilkan message notifikasi
+    "kategori" : "elektronik",
+    "totalPage" : 2,
+    "pagination" : 1,
+    "result" : [
+        {
+            "id" : 1,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 2,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 3,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 4,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 5,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 3,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 7,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 8,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 8,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+        {
+            "id" : 10,
+            "img" : "https://....",
+            "desc" : "sdjadivjndvjn",
+            "price" : "Rp 2.770.000"
+        },
+    ]
+}
