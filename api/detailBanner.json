@@ -5,9 +5,26 @@
 {
     "statusCode" : 1,
     "message" : "",
-    "result" : {
+    "result" : [
+        {
         "id" : 1,
-        "img" : "https://imagekit.....",
-        "desk" : "djwefchwoneirghxn asicfjnopaxij<br>ajsnoajs"              /// isi deskripsi dalam bentuk html format
-    }
+        "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/advanceBni.jpg",
+        "desk" : "Bayangin punya kursi pijat idaman atau treadmill canggih di rumah yang bikin kamu makin sehat dan rileks! Sekarang, impian itu bisa jadi kenyataan tanpa bikin dompet kosong. <br>Dengan Kartu Kredit BNI, nikmati promo spesial Cicilan 0% hingga 24 bulan untuk semua pembelian di ADVANCE!"
+        },
+        {
+        "id" : 2,
+        "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/yamahaKurma.webp",
+        "desk" : "Berita bahagia dan penuh keberkahan bagi warga Riau yang ingin memiliki sepeda motor Yamaha di bulan ini.<br>Ada 3 type unit yang menjadi fokus pada Program KURMA (Kredit Murah Motor Yamaha), yaitu Yamaha Fazzio, Lexi LX, dan Gear 125 series. Untuk list program setiap type tersebut akan dirangkum dalam beberapa poin dibawah ini :<br><br>Fazzio Series<br>Promo RO (Repeat Order), free voucher tambahan senilai Rp 200.000,- untuk konsumen yang ingin melakukan pembelian sepeda motor Yamaha kembali dan atau melakukan Tukar Tambah dengan Yamaha Fazzio. Potongan cicilan hingga 2 bulan. Cash back hingga 1,2 Juta.<br><br>Lexi LX Series<br>Promo RO (Repeat Order), free voucher tambahan senilai Rp 200.000,- untuk konsumen yang ingin melakukan pembelian sepeda motor Yamaha kembali dan atau melakukan Tukar Tambah dengan Yamaha Lexi LX 155. Potongan cicilan hingga 5 bulan. Cash back senilai Rp 500.000.<br><br>Gear 125 Series<br>Cash back hingga 1,2 Juta. Cicilan ringan mulai dari 20 ribu-an per hari. Uang muka hemat mulai dari 1 Juta-an."
+        },
+        {
+        "id" : 3,
+        "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/bydseal.webp",
+        "desk" : "Warranty 6 Tahun / 150.000 Km(Kendaraan)<br>0% Financing, Dapatkan promo cicilan bunga 0%<br>Maintenance Packages, Free 4 Tahun Service / 60.000 Km (Labor & Parts)<br>Free Test Drives, Melayani Free Test Drive untuk semua tipe mobil BYD<br>Spare Parts, Suku cadang asli BYD telah teruji dan berkualitas tinggi<br>Buy, Sell, Trade, Menerima tukar tambah mobil lama Anda dengan mobil baru BYD"
+        },
+        {
+        "id" : 4,
+        "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/nexen500jutan.jpeg?updatedAt=1751877486963",
+        "desk" : "Progress pembangunan Sutera Nexen masih terus berlangsung<br>Sutera Nexen memiliki 3 tipe rumah :<br>LT 72 (6x12) | LB 60<br>2 Lantai | 2KT | 2KM<br>Harga Start 590 Jutaan.<br><br>LT 84 (6x14) | LB 74<br>2 Lantai | 3KT | 3KM<br>Harga Start 700 Jutaan.<br><br>LT 98 (7x14) | LB 95<br>2 Lantai | 3+1KT | 3+1KM<br>Harga Start 900 Jutaan.<br><br>Fasilitas lengkap seluas 8000m² yang dimana akan ada _Swimming Pool, Gym Center, Komunal, Lapangan basket dan Lapangan badminton. Sutera Nexen nantinya akan ada stasiun MRT Phase 3 (Cikarang-Balajara), Tol Serbaraja dan direct acess menuju Suvarna Sutera"
+        }
+    ]
 }
