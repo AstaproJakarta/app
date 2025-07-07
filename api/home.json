@@ -8,63 +8,63 @@
     "banner" : [
         {
             "id" : 1,
-            "img" : "https://....", 
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/advanceBni.jpg", 
         },
         {
             "id" : 2,
-            "img" : "https://...."
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/yamahaKurma.webp"
         },
         {
             "id" : 3,
-            "img" : "https://...."
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/bydseal.webp"
         },        
         {
             "id" : 4,
-            "img" : "https://...."
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/nexen500jutan.jpeg"
         }
     ],
     "elektronik" : [
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Advance Amari Signature",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/ad%20vanceAmari.jpg",
+            "harga" : "Rp 69.000.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Advance Amari Maximo",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/amari-maximo.jpg",
+            "harga" : "Rp 32.980.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Advance All New I-Chiro Neo Fit",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/all-new-i-chiro-neo-fit.jpg",
+            "harga" : "16.480.000"
         },        
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Advance All New I-Chiro Young 2",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/all-new-i-chiro-young-2.jpg",
+            "harga" : "25.980.000"
         }    
     ],
     "Rumah" : [
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Nexen Kilo<br>2 lantai 6x12 ",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Kilo%206x12%20Final.png",
+            "harga" : "Rp 590.500.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Nexe Mega<br>2 lantai 6x14",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Mega%206x14%20Final.png",
+            "harga" : "Rp 767.000.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Nexen Giga<br> 2 lantai 7x14",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Giga%207x14%20Final.png",
+            "harga" : "950.500.000"
         },        
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Nexen Terra<br>2 lantai 8x14",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Tera%208+x12%20Final.png",
+            "harga" : "1.267.500.000"
         }    
     ],
     "apartement" : [
@@ -91,68 +91,68 @@
     ],
     "mobil" : [
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "BYD Seal",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Atlantis-Grey-1.png",
+            "harga" : "Rp 635.000.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "BYD Atto 3",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Sky-White-1.png",
+            "harga" : "Rp 470.000.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "BYD Dolphin",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Urban-Grey-e1733456997414.png",
+            "harga" : "Rp 369.000.000"        
         },        
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "BYD Sealion 7",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Sealion-7-Aurora-White.png",
+            "harga" : "Rp 629.000.000"
         }    
     ],
     "motor" : [
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Yamaha Xmax 250",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/XMAX-CONNECTED-Luxury-Red.png",
+            "harga" : "Rp 68.865.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Yamaha R25",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/R25-ABS-Metallic-Black.png",
+            "harga" : "Rp 72.295.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Yamaha XSR 155",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/XSR-155-Metallic-Red-Authentic.png",
+            "harga" : "Rp 39.485.000"
         },        
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Yamaha Gear Ultima",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/Gear-Ultima-Hybrid-Sand.png",
+            "harga" : "Rp 23.005.000"
         }    
     ],
     "lelang" : [
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Lelang Rumah Perum Sakinah<br>Luas T:105m/B:100m",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/LelangBsiPerumSakinahCikarang3.jpg",
+            "harga" : "nilai properti Rp 900.000.000.<br>Lelang Rp 426.000.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Lelang Rumah Perum Sakinah<br>Luas T:105m/B:100m",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/LelangBsiPerumSakinahCikarang2.jpg",
+            "harga" : "nilai properti Rp 900.000.000.<br>Lelang Rp 426.000.000"
         },
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Lelang Rumah Perum Sakinah<br>Luas T:105m/B:100m",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/LelangBsiPerumSakinahCikarang1.jpg",
+            "harga" : "nilai properti Rp 900.000.000.<br>Lelang Rp 426.000.000"
         },        
         {
-            "nama" : "asdasfasdg",
-            "img" : "https://....",
-            "harga" : "Rp 2.770.000"
+            "nama" : "Lelang Rumah Perum Sakinah<br>Luas T:105m/B:100m",
+            "img" : "https://ik.imagekit.io/jq8qnrwiyn/banner/LelangBsiPerumSakinahCikarang.jpg",
+            "harga" : "nilai properti Rp 900.000.000.<br>Lelang Rp 426.000.000"
         }    
     ],
 }
