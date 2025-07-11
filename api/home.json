@@ -1,7 +1,3 @@
-///request : get ---> https://astapro.co.id/app/home
-
-
-///result
 {
     "statusCode": 1,
     "message": "",
